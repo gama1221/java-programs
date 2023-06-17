@@ -10,7 +10,7 @@
 2) [Prime Number Program in Java](https://github.com/gama1221/java-programs/blob/main/java-basic-programs/PrimeNumber.java)
 3) [Palindrome Program in Java](https://github.com/gama1221/java-programs/blob/main/java-basic-programs/Palindrome.java)
 4) [Factorial Program in Java](https://github.com/gama1221/java-programs/blob/main/java-basic-programs/Factorial.java)
-5) [Armstrong Number in Java]()
+5) [Armstrong Number in Java](https://github.com/gama1221/java-programs/blob/main/java-basic-programs/Armstrong.java)
 6) [How to Generate Random Numbers in Java]()
 7) [How to Print Pattern in Java]()
 8) [How to Compare Two Objects in Java]()
