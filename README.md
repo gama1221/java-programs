@@ -1,2 +1,13 @@
 # java-basic-programs
-1) Fibonacci Series in Java 2) Prime Number Program in Java 3) Palindrome Program in Java 4) Factorial Program in Java 5) Armstrong Number in Java 6) How to Generate Random Number in Java 7) How to Print Pattern in Java 8) How to Compare Two Objects in Java 9) How to Create Object in Java 10) How to Print ASCII Value in Java
+- [Fibonacci Series in Java]()
+- [Prime Number Program in Java]()
+- [Palindrome Program in Java]()
+- [Factorial Program in Java]()
+- [Armstrong Number in Java]()
+- [How to Generate Random Numbers in Java]()
+- [How to Print Pattern in Java]()
+- [How to Compare Two Objects in Java]()
+- [How to Create Object in Java 10) How to Print ASCII Value in Java]()
+
+# Author
+- [Getinet Amare](https://www.linkedin.com/in/getinet-mekonnen/)
