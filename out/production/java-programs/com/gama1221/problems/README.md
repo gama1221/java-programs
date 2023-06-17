@@ -6,8 +6,8 @@
 
 # 📗 List of problems
 
-1) [Fibonacci Series in Java]()
-2) [Prime Number Program in Java]()
+1) [Fibonacci Series in Java](https://github.com/gama1221/java-programs/blob/main/java-basic-programs/Fibonacci.java)
+2) [Prime Number Program in Java](https://github.com/gama1221/java-programs/blob/main/java-basic-programs/PrimeNumber.java)
 3) [Palindrome Program in Java]()
 4) [Factorial Program in Java]()
 5) [Armstrong Number in Java]()
