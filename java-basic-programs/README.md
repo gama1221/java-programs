@@ -9,7 +9,7 @@
 1) [Fibonacci Series in Java](https://github.com/gama1221/java-programs/blob/main/java-basic-programs/Fibonacci.java)
 2) [Prime Number Program in Java](https://github.com/gama1221/java-programs/blob/main/java-basic-programs/PrimeNumber.java)
 3) [Palindrome Program in Java](https://github.com/gama1221/java-programs/blob/main/java-basic-programs/Palindrome.java)
-4) [Factorial Program in Java]()
+4) [Factorial Program in Java](https://github.com/gama1221/java-programs/blob/main/java-basic-programs/Factorial.java)
 5) [Armstrong Number in Java]()
 6) [How to Generate Random Numbers in Java]()
 7) [How to Print Pattern in Java]()
