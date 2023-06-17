@@ -1,6 +1,6 @@
 # java-basic-programs
-- [Fibonacci Series in Java]()
-- [Prime Number Program in Java]()
+1) [Fibonacci Series in Java]()
+2) [Prime Number Program in Java]()
 - [Palindrome Program in Java]()
 - [Factorial Program in Java]()
 - [Armstrong Number in Java]()
