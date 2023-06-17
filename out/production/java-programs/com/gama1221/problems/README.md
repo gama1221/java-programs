@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../java-programs/images/java.png" alt="logo" width="140"  height="auto" />
+  <img src="../images/java.png" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>Java Basic Programms</b></h3>  
 </div>
