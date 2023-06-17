@@ -18,7 +18,7 @@ public class Fibonacci{
         Scanner sc = new Scanner(System.in);
         System.out.println("Pls enter number");
         int num = sc.nextInt();
-        System.out.println("Fibonacci serious up "+num+" is ");
+        System.out.println("Fibonacci series up "+num+" is ");
         System.out.println("=================================================");
         System.out.println(getFibonacci(num));
         System.out.println("=================================================");
