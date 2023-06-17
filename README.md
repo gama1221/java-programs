@@ -1,4 +1,4 @@
-# java-basic-programs
+# Table of Contents
 1) [Fibonacci Series in Java]()
 2) [Prime Number Program in Java]()
 3) [Palindrome Program in Java]()
