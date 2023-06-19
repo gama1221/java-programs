@@ -9,7 +9,6 @@ public class SunnyNumber {
         System.out.println(findSunnyNumber(sc.nextInt()));
     }
     public static boolean findSunnyNumber(int number){
-        int perfect = number + 1;
-        return Math.sqrt(perfect) == (int)Math.sqrt(perfect);
+        return Math.sqrt(number + 1) == Math.floor(Math.sqrt(number + 1));
     }
 }
